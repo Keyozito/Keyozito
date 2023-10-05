@@ -1,5 +1,5 @@
 ### 🐸 Hey 🐸 | My name's K.O🐸 and i *LOVE FROGS* 🐸
-> I made soem personal projects (mostly in python)</br>
+> I make some personal projects (mostly in python)</br>
 > Love what i do btw ❤️.
 
 # ⭐Things i like to make⭐:

@@ -5,6 +5,7 @@
 # ⭐Things i like to make⭐:
 - 👓**Visual projects:** For example, the *particle simulator*
 - 🦠**Malware:** In the past, i've made some malware (I've lost them, but one day i'll remake them).
+- 🎮**Games:** I made *4 games in total*, all of them *vanished* from my old hd, and one of them was a *text based rpg* for my friend.
 
 <!--
 WHY ARE U LOOKING HERE UH?
